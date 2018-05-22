@@ -6,6 +6,9 @@ https://jaxondriver.github.io/10-Hour-Portfolio-Project/
 #### This is a partially complete arcade-based Spaceship Game done in Java through Processing
 
 ### Plans for the game
+<img src = https://JaxonDriver.github.io/10-Hour-Portfolio-Project/Screen%20Shot%202018-05-22%20at%208.00.18%20AM.png width = "250"/>
+
+[Gantt Chart](https://docs.google.com/spreadsheets/d/1_eNRtANgd8t-5V3wKP01ZXeYzvJJ2xftwQHt0EcHe0M/edit#gid=0)
 
 ### Screenshot of the game
 <img src = "https://JaxonDriver.github.io/10-Hour-Portfolio-Project/Screen%20Shot%202018-05-16%20at%207.53.51%20AM.png" width = "250"/>
