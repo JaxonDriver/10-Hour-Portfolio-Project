@@ -3,8 +3,9 @@
 https://jaxondriver.github.io/10-Hour-Portfolio-Project/
 
 ## Arcade Spaceship Game
-### Plans for the game
+This is a partially complete arcade-based Spaceship Game done in Java through Processing
 
+### Plans for the game
 
 ### Screenshot of the game
 
@@ -14,6 +15,9 @@ https://jaxondriver.github.io/10-Hour-Portfolio-Project/
 
 ### Space Source Code
 
+### Laser Source Code
+
+### Timer Source Code
 
 ### Inspiration for the game
 
