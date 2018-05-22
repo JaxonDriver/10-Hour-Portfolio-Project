@@ -39,4 +39,7 @@ https://jaxondriver.github.io/10-Hour-Portfolio-Project/
 [Sourcecode](https://github.com/JaxonDriver/10-Hour-Portfolio-Project/blob/master/Timer%20Source%20Code)
 
 ### Inspiration for the game
+#### The "golden age" of video games for many was when arcade games were what kids spent countless hours on, with games like Pac-Man, Space Invaders, and Galaga. I wanted to bring the arcade kind of feel to my game while adding a new sort of touch to it, getting my inspiration from old games like the ones my dad used to play
+
+[Website for more info](https://github.com/JaxonDriver/10-Hour-Portfolio-Project/blob/master/Timer%20Source%20Code)
 
