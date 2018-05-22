@@ -8,8 +8,11 @@ https://jaxondriver.github.io/10-Hour-Portfolio-Project/
 
 ### Screenshot of the game
 
+### Spaceship Code
 
-### Source code for the game
+### Alien Code
+
+### Space Code
 
 
 ### Inspiration for the game
